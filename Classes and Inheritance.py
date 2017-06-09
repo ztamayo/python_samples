@@ -1,4 +1,4 @@
-# Programmer: Zailyn Tamayo; Class: CIS 247; File: Lab13_5.py; Date: 05/31/2013
+# Programmer: Zailyn Tamayo; Date: 05/31/2013
 
 class FirstClass:                # Define a class object. 
      def setdata(self, value):    # Define class methods. 
