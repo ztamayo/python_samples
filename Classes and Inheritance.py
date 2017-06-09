@@ -1,5 +1,7 @@
 # Programmer: Zailyn Tamayo; Date: 05/31/2013
 
+# Example of creating classes in Python and using inheritance.
+
 class FirstClass:                # Define a class object. 
      def setdata(self, value):    # Define class methods. 
          self.data = value        # self is the instance. 
