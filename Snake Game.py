@@ -1,4 +1,10 @@
-# Programmer: Zailyn Tamayo; Class: CIS 247; File: Lab15_4.py; Date: 05/31/2013
+# Programmer: Zailyn Tamayo; Date: 05/31/2013
+
+# A mini snake game where a string travels across the screen.  
+# The user must use the arrow keys to guide the string to a white box on the screen.  
+# Once the string touches the box, the box then moves elsewhere on the screen.  
+# Every time the user touches the box, they get a score of one.  
+# The game ends if the string touches itself.
 
 # Orginally created by Lorenzo E. Danielsson 
 import pygame,sys,os            
