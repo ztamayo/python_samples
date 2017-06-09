@@ -1,5 +1,8 @@
-#Student: Zailyn Tamayo
-#FileName: Final_1.py
+# Programmer: Zailyn Tamayo
+
+# This script will read the time and output it.  
+# For example, if it is 2:30pm, the output will read "Two".  
+# It will only grab the hour and not the minutes.
 
 from time import strftime
 
