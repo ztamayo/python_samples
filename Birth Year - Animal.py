@@ -1,4 +1,4 @@
-# Programmer: Zailyn Tamayo; Class: CIS 247; File: Lab5_1.py; Date: 05/02/2013
+# Programmer: Zailyn Tamayo; Date: 05/02/2013
  
 y = int (input("\nEnter the year you were born (e.g. 1980): ")) 
  
