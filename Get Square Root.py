@@ -1,5 +1,5 @@
-# Student: Zailyn Tamayo
-# Programming Exercise: 10
+# Programmer: Zailyn Tamayo
+# Prompts user to enter a number and then outputs the square root of that number.
 
 import string
 import math
