@@ -1,4 +1,8 @@
 # Programmer: Zailyn Tamayo; Date: 05/02/2013
+
+# A message box will prompt the user to input 
+# the year they were born.  It will output what 
+# animal sign they are according to the Chinese Zodiac.
  
 y = int (input("\nEnter the year you were born (e.g. 1980): ")) 
  
