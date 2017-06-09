@@ -1,5 +1,8 @@
 # Programmer: Zailyn Tamayo; Date: 04/26/2013
 
+# Prints out the day of the week and date.  
+# For example, Tuesday, June 6th, 2017.
+
 import time
 
 import datetime
