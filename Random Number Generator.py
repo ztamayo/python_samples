@@ -1,7 +1,6 @@
-#!"H:/Portable Python 3.2.1.1/App/python.exe" 
+# Programmer: Zailyn Tamayo
 
-# Student: Zailyn Tamayo 
-# Programming Exercise: 09 
+# Generates a list of five random numbers ranging from 1-30.
  
 import random
 
