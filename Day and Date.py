@@ -1,4 +1,4 @@
-# Programmer: Zailyn Tamayo; Class: CIS 247; File: Lab4_3.py; Date: 04/26/2013
+# Programmer: Zailyn Tamayo; Date: 04/26/2013
 
 import time
 
