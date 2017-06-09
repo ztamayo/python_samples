@@ -1,5 +1,7 @@
-# Student: Zailyn Tamayo
-# Programming Exercise: 14 
+# Programmer: Zailyn Tamayo
+
+# A message box with a button that reads "Resize me".  
+# When the button is clicked, the box grows by 1.5.
 
 import tkinter 
 from tkinter import * 
