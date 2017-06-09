@@ -1,4 +1,8 @@
-# Student: Zailyn Tamayo  # File Name: Exam1_2.py
+# Programmer: Zailyn Tamayo 
+
+# This program will prompt the user to enter two integers.  
+# It will then output which is the larger number that was entered.  
+# For example, if the user enters 4 and 8, the output will read "8 is the maximum".
 
 first = input("\nEnter the first integer: ")
 
