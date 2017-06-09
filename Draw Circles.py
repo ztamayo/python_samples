@@ -1,4 +1,4 @@
-# Programmer: Zailyn Tamayo; Class: CIS 247; File: Lab15_2.py; Date: 05/31/2013 
+# Programmer: Zailyn Tamayo; Date: 05/31/2013 
  
 #The instructor revised Mikael Kindborg's original code 
 import pygame 
